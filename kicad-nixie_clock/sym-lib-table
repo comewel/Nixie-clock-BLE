@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name esp32-devkit)(type Legacy)(uri ${KIPRJMOD}/ESP32-DEVKITC-32D/ESP32-DEVKITC-32D.lib)(options "")(descr ""))
+  (lib (name RTC-devkit)(type Legacy)(uri ${KIPRJMOD}/RTC-devkit.lib)(options "")(descr ""))
+  (lib (name Nixie-driver)(type Legacy)(uri ${KIPRJMOD}/Nixie-driver.lib)(options "")(descr ""))
+  (lib (name Nixie-us)(type Legacy)(uri ${KIPRJMOD}/nixies-us.lib)(options "")(descr ""))
+  (lib (name symbols_esp32_devkit_v1_doit)(type Legacy)(uri ${KIPRJMOD}/symbols_esp32_devkit_v1_doit.lib)(options "")(descr ""))
+)

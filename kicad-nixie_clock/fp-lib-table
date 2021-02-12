@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name nixies-us)(type Legacy)(uri ${KIPRJMOD}/Eagle-and-KiCAD-Nixie-Libs-master/nixies-us.mod)(options "")(descr ""))
+  (lib (name nixiemisc)(type Legacy)(uri ${KIPRJMOD}/Eagle-and-KiCAD-Nixie-Libs-master/nixiemisc.mod)(options "")(descr ""))
+  (lib (name RTC-dev_kit)(type KiCad)(uri ${KIPRJMOD}/footprints/RTC-dev_kit.pretty)(options "")(descr ""))
+  (lib (name esp32-dev_kit-v1)(type KiCad)(uri ${KIPRJMOD}/footprints/esp32-dev_kit-v1.pretty)(options "")(descr ""))
+)
