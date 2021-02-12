@@ -1,5 +1,5 @@
 # nixie-clock-project
-Project inspired by [GreatScott!](https://www.youtube.com/watch?v=ObgmVNV1Kfg)'s video. The main difference is in the MCU choice, in this project it is used the ESP32 to give the Nixie clock change of time capabilities.
+Project inspired by [GreatScott!](https://www.youtube.com/watch?v=ObgmVNV1Kfg)'s video. The main difference is in the MCU choice, in this project it is used the ESP32 to give the Nixie clock the change of time capabilities throughout bluetooth.
 
 ## PCB looks like
 #### Front:
