@@ -23,6 +23,13 @@ Should be it.
 
 ## The firmware
 The only piece that is required to fill is the `NIXIE_CLOCK_SERVICE_UUID` definition.
+
+## 3D printing design files
+Inside the folder `3D-case-design` there are the AutoDesk Fusion 360 design files used for this project in `.stl` and `.f3d` format.
+Click [here](./3D-case-design/case.stl) for a preview of the case design.
+
+:exclamation:  Please notice that the lid is slightly off. We have made only a simple draft and then decided to leave it as it was (see notes below).
+
 ## Notes
 1. In the current project the majority of components are in the same side of the Nixie tubes. This will prevent the use of a top flat cover, unless you decide to put a lot of holes in it.
 So all the components should be moved on the back side and rearranging the connection in accordance.
