@@ -1,5 +1,5 @@
 # nixie-clock-project
-Project inspired by [GreatScott!](https://www.youtube.com/watch?v=ObgmVNV1Kfg)'s video. The main difference is in the MCU choice, in this project it is used the ESP32 to give the Nixie clock the change of time capabilities throughout bluetooth.
+Project inspired by [GreatScott!](https://www.youtube.com/watch?v=ObgmVNV1Kfg)'s video. The main difference is in the MCU choice, in this project it is used the ESP32 to give the Nixie clock the change of time capabilities with bluetooth.
 
 ## PCB looks like
 #### Front:
@@ -26,5 +26,4 @@ The only piece that is required to fill is the `NIXIE_CLOCK_SERVICE_UUID` defini
 ## Notes
 1. In the current project the majority of components are in the same side of the Nixie tubes. This will prevent the use of a top flat cover, unless you decide to put a lot of holes in it.
 So all the components should be moved on the back side and rearranging the connection in accordance.
-1. The nixie clock tubes used for the hour and the one used for the minutes are not symmetrical to the center of the PCB.
-2. 
+2. The nixie clock tubes used for the hour and the one used for the minutes are not symmetrical to the center of the PCB.
